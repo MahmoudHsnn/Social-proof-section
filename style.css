@@ -124,6 +124,10 @@ main {
 }
 
 @media (min-width: 1000px) {
+    main {
+        align-items: center;    
+    }
+    
     .social {
         width: calc(100% - 50px);
         padding: 80px 200px;
